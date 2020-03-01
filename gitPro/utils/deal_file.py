@@ -7,3 +7,5 @@ def prinff():
     namelist = os.listdir(code_path)
     print(namelist)
 
+def sum(a, b):
+    return  a + b
