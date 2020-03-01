@@ -12,3 +12,5 @@ maximum = max(3,9)
 print(maximum)
 
 print('add one line')
+
+print('add second line')
